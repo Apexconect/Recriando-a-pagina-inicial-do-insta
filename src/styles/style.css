@@ -51,13 +51,13 @@ body{
   
 }
 .profile-photo img {
-  width: 100px;
+  width: 70px;
   padding-bottom: 15px;
   
 }
 
 .insta-logo{
-  width: 70%;
+  width: 60%;
 }
 
 .group{
@@ -96,7 +96,11 @@ body{
 .link-blue{
   color:#0095f6;
 }
-
+.get-app{
+  color:rgb(43, 41, 41);
+  font-weight: bold;
+  font-size: 14px;
+}
 .get-the-app{
   display: flex;
   flex-direction: column;
