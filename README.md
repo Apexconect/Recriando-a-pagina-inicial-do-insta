@@ -27,7 +27,7 @@
   <li>hierarquia de tags</li>
   <li>flex-layout</li>
   <li>grid-layout</li>
-  <li>css tricks</li>=
+  <li>css tricks</li>
 </ul>
 
 </p>
